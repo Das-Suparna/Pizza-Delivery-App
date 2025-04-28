@@ -6,6 +6,20 @@
 -->
 <br>
 
+This app allows users to:
+
+Browse Menu: Users can view a list of available pizzas along with their prices.
+
+Place Orders: Users can select pizzas from the menu, choose quantity, and add them to their cart.
+
+Customize Orders: It may include options like selecting pizza size, toppings, or crust types, depending on how it's set up.
+
+User Authentication: Typically, such apps include user registration and login features, so customers can track their orders and save preferences.
+
+Payment Processing: Users can proceed to checkout and make payments (this feature might be simulated if not fully integrated with a payment gateway).
+
+Order History: Users might be able to view past orders or get updates on the status of current orders (e.g., "preparing," "out for delivery," etc.).
+
 <br><br>
 
 # Getting Started with Create React App
